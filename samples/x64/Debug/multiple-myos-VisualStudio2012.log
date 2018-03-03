@@ -1,0 +1,7 @@
+﻿  multiple-myos.cpp
+d:\school\study\program\myo_ecvironment\sdk\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myo_ecvironment\sdk\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+d:\school\study\program\myo_ecvironment\sdk\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myo_ecvironment\sdk\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+  multiple-myos-VisualStudio2012.vcxproj -> D:\School\study\program\Myo_ecvironment\SDK\myo-sdk-win-0.9.0\samples\x64\Debug\multiple-myos.exe
+          1 個のファイルをコピーしました。

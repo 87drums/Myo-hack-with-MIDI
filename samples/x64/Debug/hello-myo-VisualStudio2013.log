@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (emg-data-sample-VisualStudio2013.vcxproj, hello-myo-VisualStudio2013.vcxproj, multiple-myos-VisualStudio2012.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  MyoMidi.cpp
+d:\school\study\program\myo_ecvironment\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myo_ecvironment\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+d:\school\study\program\myo_ecvironment\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myo_ecvironment\myo-sdk-win-0.9.0\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+MyoMidi.cpp(75): warning C4244: '初期化中': 'DWORD' から 'unsigned char' への変換です。データが失われる可能性があります。
+MyoMidi.cpp(332): warning C4101: 'errmsg_buff': ローカル変数は 1 度も使われていません。
+MyoMidi.cpp(331): warning C4101: 'errmsg': ローカル変数は 1 度も使われていません。
+  hello-myo-VisualStudio2013.vcxproj -> D:\School\study\program\Myo_ecvironment\myo-sdk-win-0.9.0\samples\x64\Debug\MyoMidi.exe
+          1 個のファイルをコピーしました。

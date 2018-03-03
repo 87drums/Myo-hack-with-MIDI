@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(54,5): error MSB8020: Visual Studio 2012 (プラットフォーム ツールセット = 'v110') のビルド ツールが見つかりません。v110 ビルド ツールを使用してビルドするには、Visual Studio 2012 ビルド ツールをインストールしてください。または、[プロジェクト] メニューを選択するかソリューションを右クリックし [ソリューションの再ターゲット] を選択して、現在の Visual Studio Tools にアップグレードすることもできます。
