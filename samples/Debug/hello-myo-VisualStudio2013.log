@@ -1,0 +1,28 @@
+﻿  MyoMidi.cpp
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+MyoMidi.cpp(124): warning C4554: '<<': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+MyoMidi.cpp(182): warning C4554: '<<': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+MyoMidi.cpp(109): warning C4477: 'printf' : 書式文字列 '%10.3f' には、型 'double' の引数が必要ですが、可変個引数 1 は型 '__int64' です
+MyoMidi.cpp(121): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  MyoMidi.cpp(121): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+MyoMidi.cpp(531): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(541): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(587): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(599): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(609): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' の宣言を確認してください
+MyoMidi.cpp(615): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(630): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+MyoMidi.cpp(641): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+  hello-myo-VisualStudio2013.vcxproj -> D:\School\study\program\MyoSDK\program_myomidi\Debug\MyoMidi.exe
+          1 個のファイルをコピーしました。
